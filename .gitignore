@@ -1,0 +1,17 @@
+build/
+ev_test/*.class
+ev_test/*.log
+dist/
+nbproject/private/
+webrev
+.hgtip
+.bridge2
+*.DS_Store
+hotspot/.idea/*
+hotspot/cmake-build-*
+*.o
+*.log
+*.class
+hotspot/src/cpu/x86/vm/*_x86_32.cpp
+.idea/*
+jdk/.idea
